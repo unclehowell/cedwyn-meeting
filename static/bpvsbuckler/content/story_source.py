@@ -578,9 +578,9 @@ sc('VII', 'ghf-19920514-1', '1992-05-14', '14 May 1992', "Reserved matters appli
    'Planning file',
    "On 14 May 1992 Ideal Homes Wales applies for approval of 20 houses (92/00671/RES).",
    [REDEV])
-sc('VII', 'ghf-19920515-1', '1992-05-15', '15 May 1992', "Death of William Buckler", 'Llandough', 'A',
+sc('VII', 'ghf-19920515-1', '1990-04-29', '29 April 1990', "Death of William Buckler", 'Llandough', 'A',
    'Family account',
-   "William Buckler dies on 15 May 1992 in Llandough Hospital and is buried at Michaelston-le-Pit.",
+   "William Buckler dies on 29 April 1990 in Llandough Hospital (date: probate calendar, EV-0274) and is buried at Michaelston-le-Pit.",
    [w('/williams-buckler-family/', 'The Williams / Buckler Family — William')],
    ledger={'A': "Freehold claim: Mary's heirs · never adjudicated, never extinguished"})
 sc('VII', 'ghf-19920727-1', '1992-07-27', '27 July 1992', "GGAT letter", 'GGAT', '?',
