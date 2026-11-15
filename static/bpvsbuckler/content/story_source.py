@@ -580,7 +580,7 @@ sc('VII', 'ghf-19920514-1', '1992-05-14', '14 May 1992', "Reserved matters appli
    [REDEV])
 sc('VII', 'ghf-19900529-1', '1990-05-29', '29 May 1990', "Death of William Buckler", 'Llandough', 'A',
    'Family account',
-   "William Buckler dies on 29 May 1990 in Llandough Hospital (date: probate calendar, EV-0274) and is buried at Michaelston-le-Pit.",
+   "William (Billy) Buckler died at Llandough Hospital on 29 May 1990, aged about 41 (family date), and was buried at Michaelston-le-Pit. The probate calendar separately records a William Beverley Buckler of Penarth as having died on 29 April 1990 (EV-0274); the identity match is probable but not fully reconciled in the archive.",
    [w('/williams-buckler-family/', 'The Williams / Buckler Family — William')],
    ledger={'A': "Freehold claim: Mary's heirs · never adjudicated, never extinguished"})
 sc('VII', 'ghf-19920727-1', '1992-07-27', '27 July 1992', "GGAT letter", 'GGAT', '?',
