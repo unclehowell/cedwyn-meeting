@@ -1,3 +1,11 @@
+## [Unreleased] - 2026-11-18
+
+### Changed
+- Identify this repository as the separate source archive for the 22 October 2026 Llandough Community Council meeting.
+- Document the verified deployment split: the live `/meeting/` route is still assembled from `unclehowell/cedwyn` branch `2026-10-22`, directory `static/2026-10-22/`; this repository is not yet the production deployment source.
+- Explain route-root path mapping and distinguish the dated meeting page, legacy generations and unreviewed root working papers.
+- Record that the working papers were neither deleted nor altered and still require an owner-led privacy/scope review.
+
 ## [0.8.1.38] - 2026-07-26
 
 ## [0.8.1.37] - 2026-07-26
